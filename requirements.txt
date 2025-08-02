@@ -1,4 +1,4 @@
-flask
-pywebio
+Flask
 opencv-python
-pyzbar
+ultralytics
+supervision
