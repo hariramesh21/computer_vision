@@ -1,0 +1,4 @@
+flask
+pywebio
+opencv-python
+pyzbar
